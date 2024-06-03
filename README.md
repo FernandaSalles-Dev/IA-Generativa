@@ -2,7 +2,7 @@
 
 Este repositório contém os prompts e imagens utilizados na criação do artigo sobre IA Generativa.
 
-Você pode ler o artigo completo [aqui]([https://caminho-para-seu-artigo](https://web.dio.me/articles/ia-generativa-a-revolucao-criativa-que-esta-mudando-o-mundo?back=%2Farticles&open-modal=true&page=1&order=oldest).
+Você pode ler o artigo completo [aqui]([https://caminho-para-seu-artigo](https://web.dio.me/articles/ia-generativa-a-revolucao-criativa-que-esta-mudando-o-mundo?back=%2Farticles&open-modal=true&page=1&order=oldest)).
 
 ## Prompts Utilizados
 
